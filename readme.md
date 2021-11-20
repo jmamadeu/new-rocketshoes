@@ -29,7 +29,7 @@ To run the tests just type
 ```bash
 $ yarn test 
 ```
-Note: All of these commands can be used with NPM instead, is up to you.
+> Note: All of these commands can be used with NPM instead, is up to you.
 
 This challenge was provide by [Rocketseat](https://rocketseat.com.br/) 
 
