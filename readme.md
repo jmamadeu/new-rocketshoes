@@ -1,6 +1,6 @@
 ## Rocketshoes
 
-Simple Ecommerce app for shoes
+Simulates a cart feature in an eCommerce shoe app
 <hr>
 
 ### Techs 
