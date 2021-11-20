@@ -20,15 +20,16 @@ Once you clone and navigate to the project folder, you must need to prepare the 
 
 
 ```bash 
-$ npm # To install the dependencies
-$ npm run server # To run the fake API
-$ npm run start # To run the app
+$ yarn # To install the dependencies
+$ yar server # To run the fake API
+$ yarn start # To run the app
 ```
 
 To run the tests just type
 ```bash
-$ test 
+$ yarn test 
 ```
+Note: All of these commands can be used with NPM instead, is up to you.
 
 This challenge was provide by [Rocketseat](https://rocketseat.com.br/) 
 
